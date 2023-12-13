@@ -1,23 +1,35 @@
-# Semantic-kernel-assignment-and-LLMUI-assignment
+# test_app
 
+This template should help get you started developing with Vue 3 in Vite.
 
-a) build an end2end generative ai based app using vercel and replit and deploy - you can use built in templates of vercel
+## Recommended IDE Setup
 
-https://vercel.com/templates?type=aiLinks to an external site.
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-Hints: https://github.com/Nutlope/roomGPTLinks to an external site. https://vercel.com/aiLinks to an external site. https://vercel.com/blog/deploying-ai-applicationsLinks to an external site.
+## Customize configuration
 
-write a medium article of end2end experience and demo video linked
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-Solution
+## Project Setup
 
-Medium link : 
-Video link : 
+```sh
+npm install
+```
 
-b) Semantic kernel
+### Compile and Hot-Reload for Development
 
-Build a chat copilot with semantic kernel framework end2end with python using latest api (ideally assistant api)
+```sh
+npm run dev
+```
 
-https://devblogs.microsoft.com/semantic-kernel/openai-assistants-the-power-of-templated-assistant-instructions/
+### Compile and Minify for Production
 
-Solution : 
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
