@@ -12,6 +12,7 @@ write a medium article of end2end experience and demo video linked
 Solution
 
 Medium link : https://medium.com/@sravani.raparla/building-an-end-to-end-generative-ai-app-with-vercel-and-replit-a-step-by-step-guide-4e3c80995061
+
 Video link :  https://drive.google.com/file/d/1ogims34sLV1gbRtB6hlLNubl-204VZEa/view?usp=sharing
 
 b) Semantic kernel
