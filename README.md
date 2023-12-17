@@ -9,7 +9,7 @@ Hints: https://github.com/Nutlope/roomGPTLinks to an external site. https://verc
 
 write a medium article of end2end experience and demo video linked
 
-Solution
+Solution : 
 
 Medium link : https://medium.com/@sravani.raparla/building-an-end-to-end-generative-ai-app-with-vercel-and-replit-a-step-by-step-guide-4e3c80995061
 
